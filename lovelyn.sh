@@ -7,4 +7,5 @@ echo "The processID is" $#
 echo "The arguments are" $*
 echo "The number arguments is"$@
 date
-echo "The of the result last command is" $?
+echo "The of the result last command is" $
+#This is a command argument line ?
