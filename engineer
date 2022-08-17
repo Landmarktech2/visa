@@ -1,0 +1,8 @@
+#!/bin/bash
+>>dev
+	echo "I will be a dev eng"
+	God is good
+	echo "I believe in God"
+ dev
+whoami
+date
